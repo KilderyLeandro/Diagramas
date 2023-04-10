@@ -1,0 +1,17 @@
+{
+"funcionarios": [
+    {"id":1, "nome": "André", "Tele": 1001, "id_departamento": 001
+    {"id":1, "nome": "Tiago", "Tele": 1002, "id_departamento": 002
+    {"id":1, "nome": "Pedro", "Tele": 1003, "id_departamento": 003
+    {"id":1, "nome": "Josué", "Tele": 1004, "id_departamento": 004
+    {"id":1, "nome": "leo",   "Tele": 1005, "id_departamento": 005
+    {"id":1, "nome": "Ana",   "Tele": 1006, "id_departamento": 006
+    {"id":1, "nome": "Andy",  "Tele": 1007, "id_departamento": 007
+    {"id":1, "nome": "Ema",  " Tele": 1008, "id_departamento": 008
+    {"id":1, "nome": "Julio", "Tele": 1009, "id_departamento": 009
+    {"id":1, "nome": "Marta", "Tele": 1010, "id_departamento": 010
+
+]
+
+
+}
